@@ -3,7 +3,7 @@
 
 
 
-🔭 I’m currently working at SVB as Senior Software Engineer.
+<li>🔭 I’m currently working at SVB as Senior Software Engineer.</li>
 🌱 I’m passionate about Cloud Development.
 📝 I’m aiming to write one article per week starting from November 2023.
 🏆 I'm striving to increase my GitHub stats rating by contributing to open source.
