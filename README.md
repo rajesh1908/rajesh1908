@@ -4,10 +4,10 @@
 
 
 <li>🔭 I’m currently working at SVB as Senior Software Engineer.</li>
-🌱 I’m passionate about Cloud Development.
-📝 I’m aiming to write one article per week starting from November 2023.
-🏆 I'm striving to increase my GitHub stats rating by contributing to open source.
-⚡ Fun fact: I read books, play the piano, and sleep with my dog!
+<li>🌱 I’m passionate about Cloud Development.</li>
+<li>📝 I’m aiming to write one article per week starting from November 2023.</li>
+<li>🏆 I'm striving to increase my GitHub stats rating by contributing to open source.</li>
+<li>⚡ Fun fact: I read books, play the piano, and sleep with my dog!</li>
 
 
 ## 🌐 Socials:
