@@ -1,5 +1,5 @@
 
-![Uploading Corporate Event Banner in Black and White Blue Light Blue Bold Gradient Style.png…]()
+
 
 
 
