@@ -3,11 +3,12 @@
 
 
 
-<li>🔭 I’m currently working at SVB as Senior Software Engineer.</li>
-<li>🌱 I’m passionate about Cloud Development.</li>
-<li>📝 I’m aiming to write one article per week starting from November 2023.</li>
-<li>🏆 I'm striving to increase my GitHub stats rating by contributing to open source.</li>
-<li>⚡ Fun fact: I read books, play the piano, and sleep with my dog!</li>
+## 🚀 About Me  
+- 🔭 I’m currently working as a `.NET Full Stack Developer & Dynamics CRM Consultant`  
+- 🌱 Exploring `AWS | Azure | Solution Architecture`  
+- 👯 Looking to collaborate on `Cloud Solutions & CRM Development`  
+- 📫 How to reach me: [Email](mailto:bjr.rajesh@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)  
+
 
 
 ## 🌐 Socials:
