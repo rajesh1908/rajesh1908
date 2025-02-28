@@ -21,9 +21,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)  
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourGitHubUsername&theme=radical)  
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rajesh1908&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajesh1908&theme=dark&hide_border=false)<br/>
