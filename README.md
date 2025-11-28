@@ -17,7 +17,7 @@
 
 ❤️ I enjoy learning, teaching, and building impactful projects
 
-- 📫 How to reach me: [Email](mailto:bjr.rajesh@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)  
+📫 How to reach me: [Email](mailto:bjr.rajesh@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 
 
