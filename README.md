@@ -4,9 +4,12 @@
 
 
 ## 🚀 About Me  
-- 🔭 I’m currently working as a `.NET Full Stack Developer & Dynamics CRM Consultant`  
-- 🌱 Exploring `AWS | Azure | Solution Architecture`  
-- 👯 Looking to collaborate on `Cloud Solutions & CRM Development`  
+- 💼 Working as a .NET Full Stack Developer and Dynamics 365 CRM Consultant`  
+- 🌱 Exploring Salesforce Development, MuleSoft, and AWS SAA-C03`
+- 🧩 Passionate about building enterprise-level integrations, automation, and architectural solutions
+- 🎯 Aspiring to become a Technical/Solution Architect 
+- 👯 Looking to collaborate on `Cloud Solutions & CRM Development`
+- 👨‍💻 Hands-on with: .NET | C# | Power Platform | Plugins | Custom Connectors | Azure | AWS | JavaScript  
 - 📫 How to reach me: [Email](mailto:bjr.rajesh@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 
