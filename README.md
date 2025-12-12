@@ -28,8 +28,21 @@
 
    💻 Languages
    
-   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
-   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)      ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-00A1E0?style=flat&logo=Javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/Typescript-00A1E0?style=flat&logo=TypeScript&logoColor=purple) 
+   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-00A1E0?style=flat&logo=Javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/Typescript-00A1E0?style=flat&logo=TypeScript&logoColor=purple) 
+        ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white) 
+
+  ## 🧰 Frameworks & Platforms
+![.NET CORE](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) ![.ASP.NET Web API](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) ![MVC](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) 
+
+![.Dynamics 365 CE / Power Platform](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=Dynamics365&logoColor=white) 
+
+![Salesforce (Admin + Dev)](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=Dynamics365&logoColor=white) 
+
+ ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+
+ 
+
+  
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rajesh1908&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
